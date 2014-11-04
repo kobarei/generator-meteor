@@ -7,7 +7,7 @@ standard-app-packages
 coffeescript<% if (cssPreprocessor == 'stylus') { %>
 stylus<% } %><% if (cssPreprocessor == 'less') { %>
 less<% } %><% if (cssPreprocessor == 'bootstrap') { %>
-bootstrap<% } %>
+mizzao:bootstrap-3<% } %>
 jquery
 iron-router
 fastclick
