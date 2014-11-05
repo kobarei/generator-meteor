@@ -9,6 +9,6 @@ stylus<% } %><% if (cssPreprocessor == 'less') { %>
 less<% } %><% if (cssPreprocessor == 'bootstrap') { %>
 mizzao:bootstrap-3<% } %>
 jquery
-iron:router@0.9.4
+iron:router
 fastclick
 underscore
